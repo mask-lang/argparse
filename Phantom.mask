@@ -1,0 +1,7 @@
+package-name: mask-lang/argparse
+description: A port of argparse used for the bootstrap internals
+version: 0.1.0
+license: MIT
+author:
+  - name: Timo Sarkar
+  - email: sartimo10@gmail.com
